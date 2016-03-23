@@ -1,9 +1,5 @@
 /**
- [Yuliana Havryshchuk] (20514228)
- CS136 Fall 2015
- Assignment 2, Problem 4
  File: gcd.c
- ... module description ...
 **/
 #include <stdio.h>
 
