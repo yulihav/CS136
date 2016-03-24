@@ -1,7 +1,4 @@
 /**
- [Yuliana Havryshchuk] (20514228)
- CS136 Fall 2015
- Assignment 5, Problem 3
  File: intprioqueue.c
  Module consisting of intprioqueue.h and intprioqueue.c that 
  implements a priority queue with the operations defined below:
